@@ -29,6 +29,6 @@ def game():
 if level=="hard":
     n=5
     game()
-else:
+elif level=="easy":
     n=10
     game()
